@@ -1,26 +1,11 @@
-# Promotion Efficiency Website
+# STATIC
 
-This repo will hold all the content for [Promotion Efficiency](https://www.promoe.com.sa) 
-> DO NOT VISIT JUST YET, IT IS STILL WORK IN PROGRESS  
-  
+**This directory is not required, you can delete it if you don't want to use it.**
 
-## Current Features
+This directory contains your static files.
+Each file inside this directory is mapped to `/`.
+Thus you'd want to delete this README.md before deploying to production.
 
-- Twitter Bootstrap
-- Font Awsome  
-  
+Example: `/static/robots.txt` is mapped as `/robots.txt`.
 
-## TODO
-
-- [Visit TODO.md](TODO.md)  
-  
-
-## Design By
-
-- [Jenabs](https://99designs.com/profiles/903355) - UI / UX Designer  
-  
-
-## CONTRIBUTERS
-
-- **Arwa** - _IT Systems Analyst_ - [arwas23](https://github.com/arwas23)
-- **Mohannad Otaibi** - _Front-End Development / Coding_ - [mo9a7i](https://github.com/mo9a7i)
+More information about the usage of this directory in [the documentation](https://nuxtjs.org/guide/assets#static).
