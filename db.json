@@ -31,26 +31,26 @@
                 {
                     "number":"01",
                     "icon":"assets/imgs/icons/review.svg",
-                    "title":"TRUST",
-                    "text":"Creativity is the driving force of our company. Creativity in technology and design has allowed us to produce incredible digital experiences that have stepped out of conventional standards and paid off in very considerable ways - every time."
+                    "title":"Quality",
+                    "text":"We believe that quality is not an act but a habit."
                 },
                 {
                     "number":"02",
                     "icon":"/assets/imgs/icons/review.svg",
-                    "title":"INTEGRITY",
-                    "text":"Distribution is a family owned transportation and distribution company located in Houston, Texas."
+                    "title":"Creativity",
+                    "text":"To us, creativity is seeing and communicating ideas in ways that are unique, compelling, and unexpected."
                 },
                 {
                     "number":"03",
                     "icon":"/assets/imgs/icons/search.svg",
-                    "title":"EFFICIENCY",
-                    "text":"LSI Distribution is a family owned transportation and distribution company located in Houston, Texas. We provide our customers with supply chain solutions."
+                    "title":"Adaptability",
+                    "text":"\"Sail in all conditions\" is one of the mottos we live and work by."
                 },
                 {
                     "number":"04",
                     "icon":"/assets/imgs/icons/watch.svg",
-                    "title":"CREATIVITY",
-                    "text":"Creativity is the driving force of our company. Creativity in technology and design has allowed us to produce incredible"
+                    "title":"Determination",
+                    "text":"Our journey started with a believe that hard work and determination are the way to go."
                 }
             ]
         },
@@ -293,14 +293,16 @@
             "subtitle":"OUR ADDRESS",
             "content":{
                 "city":"KHOBAR",
-                "address":"Office 333, Floor 3, Kornich Park, Prince Mutib Road, North Khobar, 31311",
+                "address":"Office 10, Floor 2, Kornich Park, Prince Mutib Road, North Khobar, building number 6919, Postal code 34413",
                 "location": {
                     "lat":26.305914,
                     "lng":50.223589
                 },
                 "phone":{
-                    "number":"+966-555-555-555",
-                    "link":"+966555555555"
+                    "number":"+966581115550",
+                    "number2":"+966920035115",
+                    "link":"+966581115550",
+                    "link2":"+966920035115"
                 }
             }
         }
