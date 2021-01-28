@@ -36,19 +36,19 @@
                 },
                 {
                     "number":"02",
-                    "icon":"/assets/imgs/icons/review.svg",
+                    "icon":"assets/imgs/icons/review.svg",
                     "title":"Creativity",
                     "text":"To us, creativity is seeing and communicating ideas in ways that are unique, compelling, and unexpected."
                 },
                 {
                     "number":"03",
-                    "icon":"/assets/imgs/icons/search.svg",
+                    "icon":"assets/imgs/icons/search.svg",
                     "title":"Adaptability",
                     "text":"\"Sail in all conditions\" is one of the mottos we live and work by."
                 },
                 {
                     "number":"04",
-                    "icon":"/assets/imgs/icons/watch.svg",
+                    "icon":"assets/imgs/icons/watch.svg",
                     "title":"Determination",
                     "text":"Our journey started with a believe that hard work and determination are the way to go."
                 }
@@ -136,7 +136,7 @@
                     "project_name":"Project Name",
                     "client_name":"Client Name",
                     "breif":"",
-                    "picture":"/assets/imgs/work/1.png",
+                    "picture":"assets/imgs/work/1.png",
                     "link":""
 
                 },
@@ -144,7 +144,7 @@
                     "project_name":"Project Name",
                     "client_name":"Client Name",
                     "breif":"",
-                    "picture":"/assets/imgs/work/2.png",
+                    "picture":"assets/imgs/work/2.png",
                     "link":""
 
                 },
@@ -152,7 +152,7 @@
                     "project_name":"Project Name",
                     "client_name":"Client Name",
                     "breif":"",
-                    "picture":"/assets/imgs/work/3.png",
+                    "picture":"assets/imgs/work/3.png",
                     "link":""
 
                 },
@@ -160,7 +160,7 @@
                     "project_name":"Project Name",
                     "client_name":"Client Name",
                     "breif":"",
-                    "picture":"/assets/imgs/work/1.png",
+                    "picture":"assets/imgs/work/1.png",
                     "link":""
 
                 },
@@ -168,7 +168,7 @@
                     "project_name":"Project Name",
                     "client_name":"Client Name",
                     "breif":"",
-                    "picture":"/assets/imgs/work/2.png",
+                    "picture":"assets/imgs/work/2.png",
                     "link":""
 
                 },
@@ -176,7 +176,7 @@
                     "project_name":"Project Name",
                     "client_name":"Client Name",
                     "breif":"",
-                    "picture":"/assets/imgs/work/3.png",
+                    "picture":"assets/imgs/work/3.png",
                     "link":""
 
                 },
@@ -184,7 +184,7 @@
                     "project_name":"Project Name",
                     "client_name":"Client Name",
                     "breif":"",
-                    "picture":"/assets/imgs/work/1.png",
+                    "picture":"assets/imgs/work/1.png",
                     "link":""
 
                 },
@@ -192,7 +192,7 @@
                     "project_name":"Project Name",
                     "client_name":"Client Name",
                     "breif":"",
-                    "picture":"/assets/imgs/work/2.png",
+                    "picture":"assets/imgs/work/2.png",
                     "link":""
 
                 }
